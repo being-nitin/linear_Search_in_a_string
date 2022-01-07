@@ -24,3 +24,4 @@ public class Main {
     }
 }
 // this program will have the time complexity of o(n)
+// this program will have the space complexity of o(1)
