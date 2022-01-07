@@ -23,3 +23,4 @@ public class Main {
         }
     }
 }
+// this program will have the time complexity of o(n)
